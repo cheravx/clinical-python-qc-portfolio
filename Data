@@ -1,0 +1,11 @@
+data/
+├── raw/
+│   ├── dm_sample.xpt
+│   ├── adsl_sample.xpt
+│
+├── define/
+│   └── define_sample.xml
+│
+└── reference/
+    ├── sdtm_required_vars.json
+    ├── cdisc_ct_sex.json
